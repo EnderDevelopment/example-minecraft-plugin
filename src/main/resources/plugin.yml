@@ -1,0 +1,9 @@
+name: Plugin
+description: A simple plugin for Minecraft
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  test:
+    description: Test command
+    usage: /test
